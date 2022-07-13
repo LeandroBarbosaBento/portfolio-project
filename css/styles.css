@@ -1,3 +1,2 @@
-h1{
-    font-family: 'Fira Sans';
-}
+@import './global.css';
+@import './header.css';
